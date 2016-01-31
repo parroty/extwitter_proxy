@@ -1,0 +1,11 @@
+%{"certifi": {:hex, :certifi, "0.3.0"},
+  "combine": {:hex, :combine, "0.7.0"},
+  "extwitter": {:git, "https://github.com/parroty/extwitter.git", "18e90f9c99519ae242519d3a49b396a7625838ac", []},
+  "hackney": {:hex, :hackney, "1.4.8"},
+  "idna": {:hex, :idna, "1.0.3"},
+  "mimerl": {:hex, :mimerl, "1.0.2"},
+  "oauth": {:git, "https://github.com/parroty/erlang-oauth.git", "f2204123cd45a320892455828f99878333001b9f", [branch: "proxy"]},
+  "poison": {:hex, :poison, "1.5.2"},
+  "ssl_verify_hostname": {:hex, :ssl_verify_hostname, "1.0.5"},
+  "timex": {:hex, :timex, "1.0.0"},
+  "tzdata": {:hex, :tzdata, "0.5.6"}}
